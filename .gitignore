@@ -1,0 +1,6 @@
+
+.DS_Store
+devops/.terraform/plugins/darwin_amd64/lock.json
+*.0_x4
+training/.terraform/plugins/darwin_amd64/lock.json
+training/lab5/.terraform/plugins/darwin_amd64/lock.json
